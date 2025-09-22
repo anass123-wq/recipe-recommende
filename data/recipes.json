@@ -1,0 +1,324 @@
+[
+  {
+    "id": "pasta-carbonara",
+    "name": "Classic Pasta Carbonara",
+    "description": "Creamy Italian pasta dish with eggs, cheese, and pancetta",
+    "cuisine": "Italian",
+    "mealType": "dinner",
+    "difficulty": "medium",
+    "cookingTime": 25,
+    "servings": 4,
+    "rating": 4.8,
+    "views": 1205,
+    "dietary": ["gluten-containing"],
+    "ingredients": [
+      { "name": "spaghetti", "amount": "400g", "category": "pasta" },
+      { "name": "pancetta", "amount": "150g", "category": "meat" },
+      { "name": "eggs", "amount": "3 large", "category": "dairy" },
+      { "name": "parmesan cheese", "amount": "100g", "category": "dairy" },
+      { "name": "black pepper", "amount": "1 tsp", "category": "spices" },
+      { "name": "garlic", "amount": "2 cloves", "category": "vegetables" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions",
+      "Crisp pancetta in a large skillet",
+      "Whisk eggs with grated parmesan and black pepper",
+      "Toss hot pasta with pancetta and remove from heat",
+      "Quickly stir in egg mixture to create creamy sauce",
+      "Serve immediately with extra cheese"
+    ],
+    "nutritionalInfo": {
+      "calories": 520,
+      "protein": "22g",
+      "carbs": "45g",
+      "fat": "28g"
+    },
+    "tags": ["comfort-food", "italian", "pasta", "quick"]
+  },
+  {
+    "id": "chicken-stir-fry",
+    "name": "Honey Garlic Chicken Stir Fry",
+    "description": "Quick and healthy stir fry with tender chicken and crisp vegetables",
+    "cuisine": "Asian",
+    "mealType": "lunch",
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "servings": 3,
+    "rating": 4.6,
+    "views": 892,
+    "dietary": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "chicken breast", "amount": "500g", "category": "meat" },
+      { "name": "broccoli", "amount": "200g", "category": "vegetables" },
+      { "name": "bell peppers", "amount": "2 medium", "category": "vegetables" },
+      { "name": "honey", "amount": "3 tbsp", "category": "sweeteners" },
+      { "name": "soy sauce", "amount": "3 tbsp", "category": "condiments" },
+      { "name": "garlic", "amount": "4 cloves", "category": "vegetables" },
+      { "name": "ginger", "amount": "1 inch", "category": "spices" },
+      { "name": "sesame oil", "amount": "2 tbsp", "category": "oils" }
+    ],
+    "instructions": [
+      "Cut chicken into bite-sized pieces",
+      "Heat oil in wok or large skillet",
+      "Cook chicken until golden and cooked through",
+      "Add vegetables and stir-fry for 3-4 minutes",
+      "Mix honey, soy sauce, garlic, and ginger",
+      "Pour sauce over chicken and vegetables",
+      "Stir-fry for 2 more minutes until glazed"
+    ],
+    "nutritionalInfo": {
+      "calories": 285,
+      "protein": "35g",
+      "carbs": "18g",
+      "fat": "8g"
+    },
+    "tags": ["healthy", "quick", "asian", "stir-fry"]
+  },
+  {
+    "id": "veggie-quinoa-bowl",
+    "name": "Mediterranean Quinoa Bowl",
+    "description": "Nutritious bowl with quinoa, roasted vegetables, and tahini dressing",
+    "cuisine": "Mediterranean",
+    "mealType": "lunch",
+    "difficulty": "easy",
+    "cookingTime": 35,
+    "servings": 2,
+    "rating": 4.7,
+    "views": 654,
+    "dietary": ["vegetarian", "vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "quinoa", "amount": "1 cup", "category": "grains" },
+      { "name": "zucchini", "amount": "1 medium", "category": "vegetables" },
+      { "name": "cherry tomatoes", "amount": "200g", "category": "vegetables" },
+      { "name": "red onion", "amount": "1/2 medium", "category": "vegetables" },
+      { "name": "chickpeas", "amount": "1 can", "category": "legumes" },
+      { "name": "tahini", "amount": "3 tbsp", "category": "nuts" },
+      { "name": "lemon", "amount": "1 whole", "category": "fruits" },
+      { "name": "olive oil", "amount": "3 tbsp", "category": "oils" },
+      { "name": "cumin", "amount": "1 tsp", "category": "spices" }
+    ],
+    "instructions": [
+      "Cook quinoa according to package directions",
+      "Preheat oven to 400°F (200°C)",
+      "Chop vegetables and toss with olive oil and cumin",
+      "Roast vegetables for 20-25 minutes",
+      "Drain and rinse chickpeas",
+      "Make tahini dressing with lemon juice and water",
+      "Serve quinoa topped with roasted vegetables and dressing"
+    ],
+    "nutritionalInfo": {
+      "calories": 420,
+      "protein": "18g",
+      "carbs": "55g",
+      "fat": "16g"
+    },
+    "tags": ["healthy", "vegetarian", "mediterranean", "bowl"]
+  },
+  {
+    "id": "chocolate-chip-cookies",
+    "name": "Classic Chocolate Chip Cookies",
+    "description": "Soft and chewy homemade chocolate chip cookies",
+    "cuisine": "American",
+    "mealType": "dessert",
+    "difficulty": "easy",
+    "cookingTime": 30,
+    "servings": 24,
+    "rating": 4.9,
+    "views": 2105,
+    "dietary": ["vegetarian"],
+    "ingredients": [
+      { "name": "butter", "amount": "1 cup", "category": "dairy" },
+      { "name": "brown sugar", "amount": "3/4 cup", "category": "sweeteners" },
+      { "name": "white sugar", "amount": "1/4 cup", "category": "sweeteners" },
+      { "name": "eggs", "amount": "2 large", "category": "dairy" },
+      { "name": "vanilla extract", "amount": "2 tsp", "category": "extracts" },
+      { "name": "flour", "amount": "2 1/4 cups", "category": "baking" },
+      { "name": "baking soda", "amount": "1 tsp", "category": "baking" },
+      { "name": "salt", "amount": "1 tsp", "category": "spices" },
+      { "name": "chocolate chips", "amount": "2 cups", "category": "baking" }
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C)",
+      "Cream butter with both sugars until fluffy",
+      "Beat in eggs and vanilla extract",
+      "Mix flour, baking soda, and salt in separate bowl",
+      "Gradually blend dry ingredients into wet mixture",
+      "Stir in chocolate chips",
+      "Drop rounded tablespoons onto ungreased cookie sheets",
+      "Bake 9-11 minutes until golden brown"
+    ],
+    "nutritionalInfo": {
+      "calories": 185,
+      "protein": "2g",
+      "carbs": "25g",
+      "fat": "9g"
+    },
+    "tags": ["dessert", "cookies", "chocolate", "baking"]
+  },
+  {
+    "id": "tomato-basil-soup",
+    "name": "Creamy Tomato Basil Soup",
+    "description": "Rich and comforting soup with fresh basil and cream",
+    "cuisine": "American",
+    "mealType": "lunch",
+    "difficulty": "easy",
+    "cookingTime": 45,
+    "servings": 4,
+    "rating": 4.5,
+    "views": 743,
+    "dietary": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "canned tomatoes", "amount": "2 cans", "category": "vegetables" },
+      { "name": "onion", "amount": "1 medium", "category": "vegetables" },
+      { "name": "garlic", "amount": "3 cloves", "category": "vegetables" },
+      { "name": "vegetable broth", "amount": "2 cups", "category": "liquids" },
+      { "name": "heavy cream", "amount": "1/2 cup", "category": "dairy" },
+      { "name": "fresh basil", "amount": "1/4 cup", "category": "herbs" },
+      { "name": "olive oil", "amount": "2 tbsp", "category": "oils" },
+      { "name": "sugar", "amount": "1 tsp", "category": "sweeteners" },
+      { "name": "salt", "amount": "to taste", "category": "spices" },
+      { "name": "black pepper", "amount": "to taste", "category": "spices" }
+    ],
+    "instructions": [
+      "Heat olive oil in large pot",
+      "Sauté diced onion until translucent",
+      "Add minced garlic and cook 1 minute",
+      "Add canned tomatoes and vegetable broth",
+      "Simmer for 20 minutes",
+      "Blend soup until smooth with immersion blender",
+      "Stir in cream, basil, sugar, salt, and pepper",
+      "Simmer 5 more minutes and serve hot"
+    ],
+    "nutritionalInfo": {
+      "calories": 165,
+      "protein": "4g",
+      "carbs": "15g",
+      "fat": "10g"
+    },
+    "tags": ["soup", "comfort-food", "vegetarian", "tomato"]
+  },
+  {
+    "id": "salmon-teriyaki",
+    "name": "Glazed Teriyaki Salmon",
+    "description": "Perfectly cooked salmon with sweet and savory teriyaki glaze",
+    "cuisine": "Japanese",
+    "mealType": "dinner",
+    "difficulty": "medium",
+    "cookingTime": 25,
+    "servings": 4,
+    "rating": 4.7,
+    "views": 981,
+    "dietary": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      { "name": "salmon fillets", "amount": "4 pieces", "category": "fish" },
+      { "name": "soy sauce", "amount": "1/4 cup", "category": "condiments" },
+      { "name": "honey", "amount": "2 tbsp", "category": "sweeteners" },
+      { "name": "rice vinegar", "amount": "2 tbsp", "category": "condiments" },
+      { "name": "garlic", "amount": "2 cloves", "category": "vegetables" },
+      { "name": "ginger", "amount": "1 tsp", "category": "spices" },
+      { "name": "sesame oil", "amount": "1 tbsp", "category": "oils" },
+      { "name": "green onions", "amount": "2 stalks", "category": "vegetables" },
+      { "name": "sesame seeds", "amount": "1 tbsp", "category": "nuts" }
+    ],
+    "instructions": [
+      "Pat salmon fillets dry and season with salt",
+      "Mix soy sauce, honey, vinegar, garlic, and ginger for glaze",
+      "Heat sesame oil in skillet over medium-high heat",
+      "Cook salmon skin-side up for 4-5 minutes",
+      "Flip salmon and brush with teriyaki glaze",
+      "Cook 3-4 minutes more, brushing with glaze",
+      "Garnish with green onions and sesame seeds"
+    ],
+    "nutritionalInfo": {
+      "calories": 285,
+      "protein": "28g",
+      "carbs": "12g",
+      "fat": "14g"
+    },
+    "tags": ["healthy", "fish", "japanese", "gluten-free"]
+  },
+  {
+    "id": "mushroom-risotto",
+    "name": "Creamy Mushroom Risotto",
+    "description": "Rich and creamy Italian rice dish with mixed mushrooms",
+    "cuisine": "Italian",
+    "mealType": "dinner",
+    "difficulty": "hard",
+    "cookingTime": 45,
+    "servings": 4,
+    "rating": 4.6,
+    "views": 567,
+    "dietary": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "arborio rice", "amount": "1 1/2 cups", "category": "grains" },
+      { "name": "mixed mushrooms", "amount": "300g", "category": "vegetables" },
+      { "name": "vegetable broth", "amount": "5 cups", "category": "liquids" },
+      { "name": "white wine", "amount": "1/2 cup", "category": "liquids" },
+      { "name": "onion", "amount": "1 medium", "category": "vegetables" },
+      { "name": "garlic", "amount": "3 cloves", "category": "vegetables" },
+      { "name": "parmesan cheese", "amount": "1/2 cup", "category": "dairy" },
+      { "name": "butter", "amount": "3 tbsp", "category": "dairy" },
+      { "name": "olive oil", "amount": "2 tbsp", "category": "oils" },
+      { "name": "thyme", "amount": "1 tsp", "category": "herbs" }
+    ],
+    "instructions": [
+      "Heat broth in separate saucepan and keep warm",
+      "Sauté mushrooms until golden, set aside",
+      "Heat oil and 1 tbsp butter in heavy-bottomed pan",
+      "Cook diced onion until soft, add garlic",
+      "Add rice and stir for 2 minutes until coated",
+      "Add wine and stir until absorbed",
+      "Add warm broth one ladle at a time, stirring constantly",
+      "Continue until rice is creamy and al dente (20-25 minutes)",
+      "Stir in mushrooms, remaining butter, and parmesan"
+    ],
+    "nutritionalInfo": {
+      "calories": 385,
+      "protein": "12g",
+      "carbs": "58g",
+      "fat": "12g"
+    },
+    "tags": ["italian", "comfort-food", "vegetarian", "rice"]
+  },
+  {
+    "id": "greek-salad",
+    "name": "Traditional Greek Salad",
+    "description": "Fresh Mediterranean salad with feta, olives, and herbs",
+    "cuisine": "Greek",
+    "mealType": "lunch",
+    "difficulty": "easy",
+    "cookingTime": 15,
+    "servings": 4,
+    "rating": 4.4,
+    "views": 432,
+    "dietary": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "tomatoes", "amount": "4 large", "category": "vegetables" },
+      { "name": "cucumber", "amount": "1 large", "category": "vegetables" },
+      { "name": "red onion", "amount": "1/2 medium", "category": "vegetables" },
+      { "name": "feta cheese", "amount": "200g", "category": "dairy" },
+      { "name": "kalamata olives", "amount": "1/2 cup", "category": "vegetables" },
+      { "name": "olive oil", "amount": "1/4 cup", "category": "oils" },
+      { "name": "red wine vinegar", "amount": "2 tbsp", "category": "condiments" },
+      { "name": "oregano", "amount": "1 tsp", "category": "herbs" },
+      { "name": "salt", "amount": "to taste", "category": "spices" },
+      { "name": "black pepper", "amount": "to taste", "category": "spices" }
+    ],
+    "instructions": [
+      "Cut tomatoes into wedges",
+      "Slice cucumber into rounds",
+      "Thinly slice red onion",
+      "Combine vegetables in large bowl",
+      "Add olives and crumbled feta",
+      "Whisk olive oil, vinegar, oregano, salt, and pepper",
+      "Drizzle dressing over salad and toss gently"
+    ],
+    "nutritionalInfo": {
+      "calories": 220,
+      "protein": "8g",
+      "carbs": "12g",
+      "fat": "18g"
+    },
+    "tags": ["healthy", "salad", "mediterranean", "fresh"]
+  }
+]

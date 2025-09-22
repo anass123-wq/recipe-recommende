@@ -1,0 +1,339 @@
+[
+  {
+    "id": "tomato",
+    "name": "tomato",
+    "category": "vegetables",
+    "aliases": ["tomatoes", "cherry tomatoes", "roma tomatoes"],
+    "nutritionalInfo": {
+      "calories": 18,
+      "carbs": "3.9g",
+      "fiber": "1.2g",
+      "vitamin_c": "14mg"
+    },
+    "storageLife": "5-7 days",
+    "substituteFor": ["bell peppers", "zucchini"]
+  },
+  {
+    "id": "chicken-breast",
+    "name": "chicken breast",
+    "category": "meat",
+    "aliases": ["chicken", "chicken breasts", "boneless chicken"],
+    "nutritionalInfo": {
+      "calories": 165,
+      "protein": "31g",
+      "fat": "3.6g"
+    },
+    "storageLife": "2-3 days fresh, 6 months frozen",
+    "substituteFor": ["turkey breast", "pork tenderloin"]
+  },
+  {
+    "id": "garlic",
+    "name": "garlic",
+    "category": "vegetables",
+    "aliases": ["garlic cloves", "fresh garlic", "minced garlic"],
+    "nutritionalInfo": {
+      "calories": 4,
+      "carbs": "1g",
+      "manganese": "0.1mg"
+    },
+    "storageLife": "3-5 months",
+    "substituteFor": ["shallots", "onion powder"]
+  },
+  {
+    "id": "onion",
+    "name": "onion",
+    "category": "vegetables",
+    "aliases": ["onions", "yellow onion", "white onion", "red onion"],
+    "nutritionalInfo": {
+      "calories": 40,
+      "carbs": "9g",
+      "fiber": "1.7g"
+    },
+    "storageLife": "2-3 months",
+    "substituteFor": ["shallots", "leeks", "garlic"]
+  },
+  {
+    "id": "olive-oil",
+    "name": "olive oil",
+    "category": "oils",
+    "aliases": ["extra virgin olive oil", "EVOO"],
+    "nutritionalInfo": {
+      "calories": 884,
+      "fat": "100g",
+      "vitamin_e": "14mg"
+    },
+    "storageLife": "2 years",
+    "substituteFor": ["vegetable oil", "canola oil", "avocado oil"]
+  },
+  {
+    "id": "salt",
+    "name": "salt",
+    "category": "spices",
+    "aliases": ["table salt", "sea salt", "kosher salt"],
+    "nutritionalInfo": {
+      "sodium": "38758mg"
+    },
+    "storageLife": "indefinite",
+    "substituteFor": ["herb salt", "garlic salt"]
+  },
+  {
+    "id": "black-pepper",
+    "name": "black pepper",
+    "category": "spices",
+    "aliases": ["pepper", "ground black pepper", "peppercorns"],
+    "nutritionalInfo": {
+      "calories": 251,
+      "fiber": "25g"
+    },
+    "storageLife": "2-3 years",
+    "substituteFor": ["white pepper", "cayenne pepper"]
+  },
+  {
+    "id": "eggs",
+    "name": "eggs",
+    "category": "dairy",
+    "aliases": ["egg", "large eggs", "chicken eggs"],
+    "nutritionalInfo": {
+      "calories": 155,
+      "protein": "13g",
+      "fat": "11g"
+    },
+    "storageLife": "3-5 weeks",
+    "substituteFor": ["egg substitute", "flax eggs"]
+  },
+  {
+    "id": "flour",
+    "name": "flour",
+    "category": "baking",
+    "aliases": ["all-purpose flour", "wheat flour", "plain flour"],
+    "nutritionalInfo": {
+      "calories": 364,
+      "carbs": "76g",
+      "protein": "10g"
+    },
+    "storageLife": "8 months",
+    "substituteFor": ["almond flour", "coconut flour", "oat flour"]
+  },
+  {
+    "id": "butter",
+    "name": "butter",
+    "category": "dairy",
+    "aliases": ["unsalted butter", "salted butter"],
+    "nutritionalInfo": {
+      "calories": 717,
+      "fat": "81g",
+      "vitamin_a": "684μg"
+    },
+    "storageLife": "1-3 months",
+    "substituteFor": ["margarine", "coconut oil", "vegetable oil"]
+  },
+  {
+    "id": "cheese",
+    "name": "cheese",
+    "category": "dairy",
+    "aliases": ["cheddar", "mozzarella", "parmesan", "feta"],
+    "nutritionalInfo": {
+      "calories": 113,
+      "protein": "7g",
+      "fat": "9g"
+    },
+    "storageLife": "3-4 weeks",
+    "substituteFor": ["nutritional yeast", "cashew cheese"]
+  },
+  {
+    "id": "rice",
+    "name": "rice",
+    "category": "grains",
+    "aliases": ["white rice", "brown rice", "jasmine rice", "basmati rice"],
+    "nutritionalInfo": {
+      "calories": 130,
+      "carbs": "28g",
+      "protein": "2.7g"
+    },
+    "storageLife": "4-6 months cooked",
+    "substituteFor": ["quinoa", "cauliflower rice", "pasta"]
+  },
+  {
+    "id": "pasta",
+    "name": "pasta",
+    "category": "pasta",
+    "aliases": ["spaghetti", "penne", "linguine", "fettuccine"],
+    "nutritionalInfo": {
+      "calories": 131,
+      "carbs": "25g",
+      "protein": "5g"
+    },
+    "storageLife": "2-3 years dry",
+    "substituteFor": ["rice", "zoodles", "shirataki noodles"]
+  },
+  {
+    "id": "broccoli",
+    "name": "broccoli",
+    "category": "vegetables",
+    "aliases": ["broccoli florets", "fresh broccoli"],
+    "nutritionalInfo": {
+      "calories": 34,
+      "carbs": "7g",
+      "fiber": "2.6g",
+      "vitamin_c": "89mg"
+    },
+    "storageLife": "3-5 days",
+    "substituteFor": ["cauliflower", "brussels sprouts", "asparagus"]
+  },
+  {
+    "id": "bell-peppers",
+    "name": "bell peppers",
+    "category": "vegetables",
+    "aliases": ["red peppers", "green peppers", "yellow peppers", "sweet peppers"],
+    "nutritionalInfo": {
+      "calories": 31,
+      "carbs": "7g",
+      "vitamin_c": "190mg"
+    },
+    "storageLife": "1-2 weeks",
+    "substituteFor": ["zucchini", "eggplant", "mushrooms"]
+  },
+  {
+    "id": "mushrooms",
+    "name": "mushrooms",
+    "category": "vegetables",
+    "aliases": ["button mushrooms", "cremini", "shiitake", "portobello"],
+    "nutritionalInfo": {
+      "calories": 22,
+      "protein": "3g",
+      "potassium": "318mg"
+    },
+    "storageLife": "7-10 days",
+    "substituteFor": ["eggplant", "zucchini"]
+  },
+  {
+    "id": "lemon",
+    "name": "lemon",
+    "category": "fruits",
+    "aliases": ["lemons", "lemon juice", "fresh lemon"],
+    "nutritionalInfo": {
+      "calories": 17,
+      "vitamin_c": "51mg",
+      "citric_acid": "5.7g"
+    },
+    "storageLife": "3-4 weeks",
+    "substituteFor": ["lime", "vinegar"]
+  },
+  {
+    "id": "honey",
+    "name": "honey",
+    "category": "sweeteners",
+    "aliases": ["raw honey", "organic honey"],
+    "nutritionalInfo": {
+      "calories": 304,
+      "carbs": "82g",
+      "sugars": "82g"
+    },
+    "storageLife": "indefinite",
+    "substituteFor": ["maple syrup", "agave", "sugar"]
+  },
+  {
+    "id": "soy-sauce",
+    "name": "soy sauce",
+    "category": "condiments",
+    "aliases": ["tamari", "low sodium soy sauce"],
+    "nutritionalInfo": {
+      "calories": 8,
+      "sodium": "879mg",
+      "protein": "1.3g"
+    },
+    "storageLife": "3+ years",
+    "substituteFor": ["tamari", "coconut aminos", "worcestershire"]
+  },
+  {
+    "id": "ginger",
+    "name": "ginger",
+    "category": "spices",
+    "aliases": ["fresh ginger", "ginger root", "ground ginger"],
+    "nutritionalInfo": {
+      "calories": 80,
+      "carbs": "18g",
+      "fiber": "2g"
+    },
+    "storageLife": "2-3 weeks fresh",
+    "substituteFor": ["galangal", "turmeric"]
+  },
+  {
+    "id": "quinoa",
+    "name": "quinoa",
+    "category": "grains",
+    "aliases": ["red quinoa", "white quinoa", "tri-color quinoa"],
+    "nutritionalInfo": {
+      "calories": 222,
+      "protein": "8g",
+      "fiber": "5g"
+    },
+    "storageLife": "2-3 years dry",
+    "substituteFor": ["rice", "bulgur", "couscous"]
+  },
+  {
+    "id": "chickpeas",
+    "name": "chickpeas",
+    "category": "legumes",
+    "aliases": ["garbanzo beans", "canned chickpeas"],
+    "nutritionalInfo": {
+      "calories": 164,
+      "protein": "8.9g",
+      "fiber": "12.5g"
+    },
+    "storageLife": "2-3 years canned",
+    "substituteFor": ["white beans", "lentils", "black beans"]
+  },
+  {
+    "id": "cucumber",
+    "name": "cucumber",
+    "category": "vegetables",
+    "aliases": ["cucumbers", "english cucumber"],
+    "nutritionalInfo": {
+      "calories": 16,
+      "carbs": "4g",
+      "water": "95%"
+    },
+    "storageLife": "1 week",
+    "substituteFor": ["zucchini", "celery"]
+  },
+  {
+    "id": "avocado",
+    "name": "avocado",
+    "category": "fruits",
+    "aliases": ["avocados", "hass avocado"],
+    "nutritionalInfo": {
+      "calories": 160,
+      "fat": "15g",
+      "fiber": "7g"
+    },
+    "storageLife": "3-4 days ripe",
+    "substituteFor": ["hummus", "mashed banana"]
+  },
+  {
+    "id": "spinach",
+    "name": "spinach",
+    "category": "vegetables",
+    "aliases": ["baby spinach", "fresh spinach", "spinach leaves"],
+    "nutritionalInfo": {
+      "calories": 23,
+      "iron": "2.7mg",
+      "vitamin_k": "483μg"
+    },
+    "storageLife": "5-7 days",
+    "substituteFor": ["kale", "arugula", "lettuce"]
+  },
+  {
+    "id": "salmon",
+    "name": "salmon",
+    "category": "fish",
+    "aliases": ["salmon fillets", "atlantic salmon", "wild salmon"],
+    "nutritionalInfo": {
+      "calories": 208,
+      "protein": "22g",
+      "omega3": "2.3g"
+    },
+    "storageLife": "1-2 days fresh",
+    "substituteFor": ["tuna", "mackerel", "trout"]
+  }
+]
